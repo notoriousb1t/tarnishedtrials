@@ -7,6 +7,7 @@
 
 * {
   box-sizing: border-box;
+  color: hsl(29 55% 89% / 1);
   font-family: Lato;
   line-height: 1.4em;
   margin: 0;
@@ -83,6 +84,7 @@ body {
 }
 
 .hero-title {
+  color: hsl(30 61% 69% / 1);
   font-family: Mantinia;
   font-size: 64px;
   max-width: 480px;
@@ -90,6 +92,7 @@ body {
 }
 
 .hero-description {
+  color: hsl(29 55% 89% / 1);
   max-width: 480px;
   text-align: center;
 }
