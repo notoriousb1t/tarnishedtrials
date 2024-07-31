@@ -1,0 +1,23 @@
+---
+layout: base
+---
+
+<h1 class="challenge-title">
+    {{ page.title }}
+</h1>
+
+{{ content }}
+
+<div class="challenge-goal-heading">
+    <h2>Goals</h2>
+</div>
+<ul class="challenge-goal-list">
+    {% for item in page.goals %}
+    <li class="challenge-goal">
+        <label class="challenge-goal-checkbox">
+            <input type="checkbox" />
+        </label>
+        <a href="https://eldenring.wiki.fextralife.com/{{item}}" target="_blank">{{item}}</a>
+    </li>
+    {% endfor %}
+</ul>
