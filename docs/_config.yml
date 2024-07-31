@@ -7,3 +7,8 @@ url: "http://tarnishedtrials.com" # the base hostname & protocol for your site, 
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  challenges:
+    output: true
+    sort_by: title

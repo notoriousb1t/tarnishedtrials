@@ -29,26 +29,127 @@ body {
 }
 
 .base-logo {
-    font-family: Mantinia;
-    font-size: 32px;
+  font-family: Mantinia;
+  font-size: 32px;
+  top: 5px;
 }
 
-.base-nav {
+.base-logo > a {
+  font: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  text-shadow: hsl(30 61% 69%) 1px 0 4px;
+}
+
+.base-nav-container {
   background: rgb(0 0 0 / 86%);
   color: white;
-  height: 64px;
   display: grid;
-  justify-items: center;
   grid-template-columns: 1fr;
+  height: 64px;
+  justify-items: center;
   width: 100%;
+  z-index: 1000;
 }
 
 .base-nav-content {
   align-items: center;
-  display: inline-grid;
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-between;
   max-width: 1040px;
-  padding: 16px;
+  padding: 0 16px;
   width: 100%;
+}
+
+.base-nav {
+  height: 48px;
+}
+
+.base-nav-menu {
+  height: 48px;
+  list-style: none;
+  margin: 0;
+  text-align: center;
+}
+
+.base-nav-menuitem {  
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  height: 56px;
+  line-height: 48px;
+  margin: 0;
+  z-index: 0;
+}
+
+
+.base-nav-menuitem > .base-nav-submenu,
+.base-nav-menuitem > .base-nav-submenu {
+  display: none;
+}
+
+.base-nav-menuitem:hover > .base-nav-submenu,
+.base-nav-menuitem:focus-within > .base-nav-submenu {
+  display: block;
+}
+
+.base-nav-menuitem > a {
+  display: block;
+  font-family: inherit;
+  font-weight: inherit;
+  height: inherit;
+  line-height: inherit;
+  padding: 0 16px;
+  text-decoration: none;
+  z-index: 0;
+}
+
+.base-nav-menuitem > a:hover {
+  background-color: black;
+  outline: solid white 2px;
+  outline-offset: -3px;
+  z-index: 1;
+}
+
+.base-nav-submenu {
+  height: 48px;
+  line-height: 48px;
+  list-style: none;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  width: 164px;
+}
+
+.base-nav-submenuitem {
+  align-items: center;
+  background: rgb(0 0 0 / 86%);
+  display: grid;
+  grid-template-columns: 1fr;
+  height: 48px;
+  line-height: 48px;
+  margin: 0;
+  text-align: end;
+  z-index: 0;
+}
+
+.base-nav-submenuitem > a {
+  display: block;
+  font-family: inherit;
+  font-weight: inherit;
+  height: inherit;
+  line-height: inherit;
+  padding: 0 16px;
+  text-decoration: none;
+  z-index: 0;
+}
+
+.base-nav-submenuitem > a:hover {
+  background-color: black;
+  outline: solid white 2px;
+  outline-offset: -3px;
 }
 
 .base-main {
@@ -58,16 +159,17 @@ body {
   grid-template-columns: 1fr;
   justify-items: center;
   max-height: 100%;
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
   width: 100%;
 }
 
 .base-main-content {
   background: linear-gradient(
-    to right, 
-    transparent 0, 
-    rgb(0, 0, 0, .25) 10%, 
-    rgb(0, 0, 0, .25) 90%, 
+    to right,
+    transparent 0,
+    rgb(0, 0, 0, 0.25) 10%,
+    rgb(0, 0, 0, 0.25) 90%,
     transparent 100%
   );
   max-width: 1040px;
@@ -75,12 +177,37 @@ body {
   width: 100%;
 }
 
-
 .hero {
   align-content: center;
-  display: grid;    
+  display: grid;
   height: 100%;
   justify-content: center;
+}
+
+.hero-action-container {
+  display: flex;
+  padding: 24px;
+  place-content: center;
+}
+
+.hero-action {
+  background:rgb(0 0 0 / 75%);
+  border-radius: 12px;
+  box-shadow: 2px;
+  color: white;
+  display: inline-grid;
+  padding: 12px 16px;
+  text-decoration: none;
+  text-shadow: hsl(30 61% 69%) 1px 0 4px;
+  width: auto;
+}
+
+.hero-action:hover,
+.hero-action:focus
+ {
+  background: black;
+  outline-offset: -2px;
+  outline: solid white 2px;
 }
 
 .hero-title {
@@ -95,4 +222,46 @@ body {
   color: hsl(29 55% 89% / 1);
   max-width: 480px;
   text-align: center;
+}
+
+
+.challenges-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 0;
+  padding: 16px;
+  width: 100%;
+}
+
+.challenges-griditem {
+  background: black;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow:  0px 0px 4px 0px black;
+  height: 286px;
+  list-style: none;
+  width: 480px;
+}
+
+.challenges-griditem:hover,
+.challenges-griditem:focus-within {
+  box-shadow:  0px 1px 4px 2px hsl(30 61% 69% / 45%);
+}
+
+.challenges-griditem > a {
+  display: grid;
+  font-family: Mantinia;
+  font-size: 48px;
+  place-content: center;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  text-shadow: hsl(30 61% 69%) 1px 0 10px;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.challenges-griditem > a:hover,
+.challenges-griditem > a:focus {
+  filter: none;
 }
