@@ -12,6 +12,6 @@ If you have a developer environment setup, simply fork this repo and submit a Pu
 
 ### Submit an Issue
 
-[Create a new Issue](notoriousb1t/tarnishedtrials/issues/new/choose) in this repository detailing the Challenge Run Idea including what is needed to win, any restrictions, and most importantly, what cosplay is necessary!
+[Create a new Issue](https://github.com/notoriousb1t/tarnishedtrials/issues/new/choose) in this repository detailing the Challenge Run Idea including what is needed to win, any restrictions, and most importantly, what cosplay is necessary!
 
 Please note that if a challenge run is sufficiently close to another existing one, it may be added as a variant or you may be asked to come up with something to make it more unique.
