@@ -18,11 +18,11 @@
             <nav class="base-nav">
                 <ul class="base-nav-menu">
                     <li class="base-nav-menuitem">
-                        <a href="/challenges">Challenges</a>
+                        <a href="/challenges">Recommended</a>
                         <ul class="base-nav-submenu">
                         {% for item in site.challenges %}
                             {% if item.show_in_menu %}
-                                <li  class="base-nav-submenuitem">
+                                <li class="base-nav-submenuitem">
                                     <a href="{{ item.url }}" {% if page.url == item.url %}class="current"{% endif %}>
                                         {{ item.title }}
                                     </a>
@@ -30,6 +30,12 @@
                             {% endif %}
                         {% endfor %}
                         </ul>
+                    </li>
+                    
+                    <li class="base-nav-menuitem">
+                        <a href="https://github.com/notoriousb1t/tarnishedtrials" target="_blank">
+                            Contribute
+                        </a>
                     </li>
                 </ul>
             </nav>
