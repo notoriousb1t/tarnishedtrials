@@ -11,12 +11,34 @@
   font-family: Lato;
   line-height: 1.4em;
   margin: 0;
+  min-width: 0;
   padding: 0;
   position: relative;
 }
 
+html {
+  font-size: 16px;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  html {
+    font-size: 18px;
+  }
+
+  .desktop-only {
+    display: none !important;
+  }
+}
+
 ul {
   padding: 0 32px;
+}
+
+li {
+  padding: 4px;
 }
 
 h2, h3, h4, h5 {
@@ -39,7 +61,7 @@ body {
 
 .base-logo {
   font-family: Mantinia;
-  font-size: 32px;
+  font-size: 2rem;
   top: 5px;
 }
 
@@ -55,8 +77,8 @@ body {
   color: white;
   display: grid;
   grid-template-columns: 1fr;
-  height: 64px;
   justify-items: center;
+  min-height: 64px;
   width: 100%;
   z-index: 1000;
 }
@@ -185,7 +207,7 @@ body {
     transparent 100%
   );
   max-width: 1040px;
-  padding: 16px;
+  padding: 8px;
   width: 100%;
 }
 
@@ -226,7 +248,7 @@ body {
 .hero-title {
   color: hsl(30 61% 69% / 1);
   font-family: Mantinia;
-  font-size: 64px;
+  font-size: 4rem;
   max-width: 480px;
   text-align: center;
 }
@@ -248,14 +270,16 @@ body {
 }
 
 .challenges-griditem {
-  background: black;
   background-size: cover;
+  background: black;
   border-radius: 8px;
   box-shadow:  0px 0px 4px 0px black;
-  height: 286px;
   list-style: none;
+  max-width: 480px;
+  min-height: 286px;
+  min-width: 0;
   text-align: center;
-  width: 480px;
+  width: 100%
 }
 
 .challenges-griditem:hover,
@@ -265,14 +289,16 @@ body {
 
 .challenges-griditem > a {
   display: grid;
+  filter: drop-shadow(2px 4px 6px black);
   font-family: Mantinia;
-  font-size: 48px;
-  place-content: center;
+  font-size: 3rem;
   height: 100%;
-  width: 100%;
+  padding: 16px;
+  place-content: center;
   text-decoration: none;
   text-shadow: hsl(30 61% 69%) 1px 0 10px;
-  filter: drop-shadow(2px 4px 6px black);
+  width: 100%;
+  word-break: break-word;
 }
 
 .challenges-griditem > a:hover,
@@ -281,32 +307,32 @@ body {
 }
 
 .challenge-goal-list {
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
   gap: 8px;
-  padding: 0;
-  grid-template-columns: repeat(3, 1fr);
   list-style: none;
+  padding: 0;
 }
 
 .challenge-title {
-  font-family: Mantinia;
-  font-size:  94px;
-  padding: 64px;
-  width: 100%;
   display: grid;
+  font-family: Mantinia;
+  font-size:  5rem;
+  padding: 64px;
   place-content: center;
   text-align: center;
   text-shadow: hsl(30 61% 69%) 1px 0 10px;
+  width: 100%;
 }
 
 .challenge-goal {
-  background-color: rgb(0, 0, 0, 0.25);
   align-items: center;
-  margin: 0;
-  display: flex;
   border-radius: 12px;
-  padding: 12px 16px;
+  display: flex;
+  margin: 0;
+  flex-basis: 480px;
   max-width: 480px;
+  padding: 0 16px;
   width: 100%;
 }
 
