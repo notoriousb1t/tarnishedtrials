@@ -254,6 +254,7 @@ body {
   box-shadow:  0px 0px 4px 0px black;
   height: 286px;
   list-style: none;
+  text-align: center;
   width: 480px;
 }
 
@@ -294,6 +295,7 @@ body {
   width: 100%;
   display: grid;
   place-content: center;
+  text-align: center;
   text-shadow: hsl(30 61% 69%) 1px 0 10px;
 }
 

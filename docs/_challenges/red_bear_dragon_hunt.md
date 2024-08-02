@@ -3,7 +3,7 @@ layout: challenge
 background_image: "/assets/images/red-bear-staring-down-dragon.jpg"
 show_in_list: true
 show_in_menu: false
-title: Red Bear Hunt
+title: Red Bear Dragon Hunt
 goals:
  - Ancient Dragon Florissax
  - Ancient Dragon Lansseax
@@ -12,6 +12,7 @@ goals:
  - Bayle The Dread
  - Borealis, the Freezing Fog
  - Decaying Ekzykes
+ - Draconic Tree Sentinel
  - Dragonlord Placidusax
  - Elden Beast
  - Elder Dragon Greyoll
@@ -22,6 +23,7 @@ goals:
  - Glintstone Dragon
  - Glintstone Dragon Adula
  - Glintstone Dragon Smarag
+ - Godrick the Grafted
  - Great Wyrm Theodorix
  - Great Wyrm Theodorix
  - Jagged Peak Drake
@@ -32,7 +34,7 @@ goals:
 
 ## Overview
 
-Prove that bears are superior by purging all dragons in the Lands Between and the Land of Shadow as the Red Bear.
+Prove that bears are superior by purging all dragons in the Lands Between and the Land of Shadow as the Red Bear. Hunt down all dragons and any creature on the way to becoming a dragon.
 
 ## Rules
 
@@ -53,7 +55,7 @@ Prove that bears are superior by purging all dragons in the Lands Between and th
     - [Champion Gaiters](https://eldenring.wiki.fextralife.com/Champion Gaiters){:target="_blank"}
 - May only use incantations in [Bestial Incantations](https://eldenring.wiki.fextralife.com/Bestial+Incantations){:target="_blank"} and [Roar of Rugalea](https://eldenring.wiki.fextralife.com/Roar+of+Rugalea){:target="_blank"}
 - No transformations are allowed. Bears are the strongest. You are the strongest bear
-- No Spirit Ashes or NPC Summons are allowed
+- No Draconic Spirit Ashes or NPC Summons are allowed
 
 ## Setup
 
@@ -68,8 +70,9 @@ Prove that bears are superior by purging all dragons in the Lands Between and th
 - [Beast Claw (Weapon)](https://eldenring.wiki.fextralife.com/Beast+Claw+(Weapon)){:target="_blank"} can be infused with Ashes of War
 - Be on the lookout for talismans that boost roars, incantions, and charge attacks
 - There are 5 possible [Farum Azula Dragon](https://eldenring.wiki.fextralife.com/Farum+Azula+Dragon){:target="_blank"}s
+- There are 2 [Draconic Tree Sentinel](https://eldenring.wiki.fextralife.com/Draconic Tree Sentinel){:target="_blank"}s
 - There are 2 [Jagged Peak Drake](https://eldenring.wiki.fextralife.com/Jagged+Peak+Drake){:target="_blank"}s
-- There are 3 [Glintstone+Dragon](https://eldenring.wiki.fextralife.com/Glintstone+Dragon){:target="_blank"}s
+- There are 3 [Glintstone Dragon](https://eldenring.wiki.fextralife.com/Glintstone+Dragon){:target="_blank"}s
 - There are 3 [Ghostflame Dragon](https://eldenring.wiki.fextralife.com/Ghostflame+Dragon){:target="_blank"}s
 - There are 4 [Magma Wyrm](https://eldenring.wiki.fextralife.com/Magma+Wyrm){:target="_blank"}s
 

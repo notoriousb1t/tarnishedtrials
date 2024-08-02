@@ -15,7 +15,7 @@ layout: base
     {% for item in page.goals %}
     <li class="challenge-goal">
         <label class="challenge-goal-checkbox">
-            <input type="checkbox" />
+            <input type="checkbox" name="{{ page.title }} | {{ item }}" />
         </label>
         <a href="https://eldenring.wiki.fextralife.com/{{item}}" target="_blank">{{item}}</a>
     </li>
