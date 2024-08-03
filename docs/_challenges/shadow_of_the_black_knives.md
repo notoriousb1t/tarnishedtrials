@@ -5,7 +5,6 @@ show_in_list: true
 show_in_menu: false
 title: Shadow of the Black Knives
 goals:
-
  - Anastasia, Tarnished-Eater
  - Bloody Finger Nerijus
  - Bloody Finger Okina
@@ -49,7 +48,7 @@ As a Black Knife Assassin, finish what was started on The Night of the Black Kni
 - May only equip [Daggers](https://eldenring.wiki.fextralife.com/Daggers){:target="_blank"} after the Chapel of Anticipation
 - May only wear the [Black Knife Set](https://eldenring.wiki.fextralife.com/Black+Knife+Set){:target="_blank"} after the Chapel of Anticipation
 - No incantations or sorceries
-- Only Standard Spirit Ashes and [Black Knife Tiche](https://eldenring.wiki.fextralife.com/Black+Knife+Tiche+Ashes){:target="_blank"} maybe be summoned
+- Only Standard Spirit Ashes and [Black Knife Tiche](https://eldenring.wiki.fextralife.com/Black+Knife+Tiche+Ashes){:target="_blank"} may be summoned
 - No NPC Summons except for Radahn Festival
 
 ## Setup

@@ -7,9 +7,6 @@ title: Red Bear Dragon Hunt
 goals:
  - Ancient Dragon Florissax
  - Ancient Dragon Lansseax
- - Ancient Dragon Senessax
- - Ancient Dragon-Man
- - Bayle The Dread
  - Borealis, the Freezing Fog
  - Decaying Ekzykes
  - Draconic Tree Sentinel
@@ -19,17 +16,22 @@ goals:
  - Farum Azula Dragon
  - Flying Dragon Agheel
  - Flying Dragon Greyll
- - Ghostflame Dragon
  - Glintstone Dragon
  - Glintstone Dragon Adula
  - Glintstone Dragon Smarag
  - Godrick the Grafted
  - Great Wyrm Theodorix
- - Great Wyrm Theodorix
- - Jagged Peak Drake
  - Lichdragon Fortissax
  - Magma Wyrm
  - Magma Wyrm Makar
+goals_sote:
+ - Ancient Dragon-Man
+ - Ancient Dragon Senessax
+ - Bayle The Dread
+ - Ghostflame Dragon
+ - Jagged Peak Drake
+ - Magma Wyrm
+
 ---
 
 ## Overview

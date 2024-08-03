@@ -5,21 +5,22 @@ show_in_list: true
 show_in_menu: true
 title: All Katanas
 goals:
- - Dragon-Hunter's Great Katana
  - Dragonscale Blade
  - Elden Beast
- - Great Katana
  - Hand of Malenia
  - Meteoric Ore Blade
  - Moonveil
  - Nagakiba
- - Rakshasa's Great Katana
  - Rivers of Blood
  - Serpentbone Blade
- - Star-lined Sword
- - Sword of Night
  - Uchigatana
  - Wakizashi
+goals_sote:
+ - Dragon-Hunter's Great Katana
+ - Great Katana
+ - Rakshasa's Great Katana
+ - Star-lined Sword
+ - Sword of Night
 ---
 
 ## Overview
