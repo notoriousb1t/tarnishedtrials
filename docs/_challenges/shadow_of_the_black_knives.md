@@ -6,6 +6,7 @@ show_in_menu: false
 title: Shadow of the Black Knives
 goals:
  - Anastasia, Tarnished-Eater
+ - Bell Bearing Hunter
  - Bloody Finger Nerijus
  - Bloody Finger Okina
  - Bloody Finger Ravenmount Assassin
@@ -16,6 +17,7 @@ goals:
  - Ensha
  - Errant Sorcerer Wilhelm
  - Festering Fingerprint Vyke
+ - Fia's Champions
  - Great Horned Tragoth
  - Great-Jar Warrior
  - Inquisitor Ghiza
@@ -31,7 +33,6 @@ goals:
  - Recusant Henricus
  - Rileigh the Idle
  - Sanguine Noble
- - Tanith's Knight
  - Vargram the Raging Wolf
  - White Mask Varré
  - Witch-Hunter Jerren
@@ -70,4 +71,5 @@ As a Black Knife Assassin, finish what was started on The Night of the Black Kni
  - The player should side with Sorceress Sellen
  - The player should side with Millicent
  - Anastasia, Tarnished-Eater invades 3 times
+ - There are 4 Bell Bearing Hunters
 
