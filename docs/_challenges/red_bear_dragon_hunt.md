@@ -31,12 +31,12 @@ goals_sote:
  - Ghostflame Dragon
  - Jagged Peak Drake
  - Magma Wyrm
-
+ - Rugalea the Great Red Bear
 ---
 
 ## Overview
 
-Prove that bears are superior by purging all dragons in the Lands Between and the Land of Shadow as the Red Bear. Hunt down all dragons and any creature on the way to becoming a dragon.
+Prove that you are strongest bear by purging all dragons in the Lands Between and the Land of Shadow as the Red Bear. Hunt down all dragons and any creature on the way to becoming a dragon.
 
 ## Rules
 
