@@ -63,7 +63,7 @@ Prove that you are strongest bear by purging all dragons in the Lands Between an
 
 - The [Hero](https://eldenring.wiki.fextralife.com/Hero) class is recommended. It is the closest to meeting the Strength requirements of the starting classes
 - Discard all unusable weapons and armor
-- Skip the Grafted Scion fight by jumping off an edge
+- Skip the Grafted Scion fight by jumping off an edge after he loads in
 - Summon in a friend to drop the above items for you. Be cautious of invaders!
 
 ## Notes
