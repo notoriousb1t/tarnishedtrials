@@ -10,12 +10,11 @@ goals:
 - Rennala, Queen of the Full Moon
 - Radagon of the Golden Order
 - Elden Beast
-- Erdtree Avatars
-- Crucible Knights
+- Erdtree Avatar
+- Crucible Knight
 - Brother Corhyn
 - Goldmask
-- Gideon Ofnir, the All-Knowing
-- Miriel, Pastor of Vows
+- Gideon Ofnir
 ---
 
 ## Overview
@@ -35,12 +34,12 @@ goals:
 
 ## Setup
 
-- The [Vagabond](https://eldenring.wiki.fextralife.com/Vagabond) class is recommended
+- The [Vagabond](https://eldenring.wiki.fextralife.com/Vagabond){:target="_blank"} class is recommended
 - Skip the Grafted Scion fight by jumping off an edge after he loads in
 - Summon in a friend to drop the Beast Claws and any equipment. Be cautious of invaders!
 
 ## Notes
 
 - [Beast Claw (Weapon)](https://eldenring.wiki.fextralife.com/Beast+Claw+(Weapon)){:target="_blank"} can be infused with Ashes of War
-- [Blessed Dew Talisman](https://eldenring.wiki.fextralife.com/Blessed+Dew+Talisman) is recommended
+- [Blessed Dew Talisman](https://eldenring.wiki.fextralife.com/Blessed+Dew+Talisman){:target="_blank"} is recommended
 
