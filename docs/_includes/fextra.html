@@ -1,0 +1,4 @@
+{% assign url = include.name | prepend: 'https://eldenring.wiki.fextralife.com/' %}
+<a href="{{ url }}" target="_blank">
+    {{ include.text | default: include.name }}
+</a>

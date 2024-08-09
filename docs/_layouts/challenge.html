@@ -16,7 +16,7 @@ layout: base
         <label class="challenge-goal-checkbox">
             <input type="checkbox" name="{{ page.title }} | {{ item }}" />
         </label>
-        <a href="https://eldenring.wiki.fextralife.com/{{item}}" target="_blank">{{item}}</a>
+        {% include fextra.html name=item %}
     </li>
     {% endfor %}
     {%if page.goals == null %}
@@ -31,7 +31,7 @@ layout: base
             <label class="challenge-goal-checkbox">
                 <input type="checkbox" name="{{ page.title }} | {{ item }}" />
             </label>
-            <a href="https://eldenring.wiki.fextralife.com/{{item}}" target="_blank">{{item}}</a>
+            {% include fextra.html name=item %}
         </li>
     {% endfor %}
     {%if page.goals_sote == null %}

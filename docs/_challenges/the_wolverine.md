@@ -5,16 +5,23 @@ show_in_list: false
 show_in_menu: false
 title: The Wolverine
 goals:
-- Godrick the Grafted
-- Morgott, the Omen King
-- Rennala, Queen of the Full Moon
-- Radagon of the Golden Order
+- Brother Corhyn
+- Crucible Knight
+- D, Beholder Of Death
+- D, Hunter of the Dead
 - Elden Beast
 - Erdtree Avatar
-- Crucible Knight
-- Brother Corhyn
-- Goldmask
+- Gatekeeper Gostoc
 - Gideon Ofnir
+- Godrick the Grafted
+- Goldmask
+- Kenneth Haight
+- Lichdragon Fortissax
+- Morgott, the Omen King
+- Radagon of the Golden Order
+- Rennala, Queen of the Full Moon
+- Soldier of Godrick
+- Tree Sentinel
 ---
 
 ## Overview
@@ -24,22 +31,22 @@ goals:
 ## Rules
 
 - New Game only with setup from a previous game (see Setup)
-- [Age of the Stars](https://eldenring.wiki.fextralife.com/Endings#ageofthestars){:target="_blank"} ending
+-  {% include fextra.html text='Age of the Stars' name='Endings#ageofthestars' %} ending
 - May only use the following weapons after Chapel of Anticipation
-    - [Beast Claw (Weapon)](https://eldenring.wiki.fextralife.com/Beast+Claw+(Weapon)){:target="_blank"}
-    - [Clawmark Seal](https://eldenring.wiki.fextralife.com/Clawmark Seal){:target="_blank"}
-- May only use incantations in [Bestial Incantations](https://eldenring.wiki.fextralife.com/Bestial+Incantations){:target="_blank"}
+    - {% include fextra.html name='Beast Claw (Weapon)' %}
+    - {% include fextra.html name='Clawmark Seal' %}
+- May only use incantations in {% include fextra.html name='Bestial Incantations' %}
 - May not wear a shirt or headgear
 - May not use Flasks of Crimson Tears
 
 ## Setup
 
-- The [Vagabond](https://eldenring.wiki.fextralife.com/Vagabond){:target="_blank"} class is recommended
+- The {% include fextra.html name='Vagabond' %} class is recommended
 - Skip the Grafted Scion fight by jumping off an edge after he loads in
-- Summon in a friend to drop the Beast Claws and any equipment. Be cautious of invaders!
+- Summon in a friend to drop the equipment. Be cautious of invaders!
 
 ## Notes
 
-- [Beast Claw (Weapon)](https://eldenring.wiki.fextralife.com/Beast+Claw+(Weapon)){:target="_blank"} can be infused with Ashes of War
-- [Blessed Dew Talisman](https://eldenring.wiki.fextralife.com/Blessed+Dew+Talisman){:target="_blank"} is recommended
+- {% include fextra.html name='Beast Claw (Weapon)' %} can be infused with Ashes of War
+- {% include fextra.html name='Blessed Dew Talisman' %} is recommended
 
