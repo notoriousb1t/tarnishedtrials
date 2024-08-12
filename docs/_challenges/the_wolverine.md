@@ -1,7 +1,7 @@
 ---
 layout: challenge
-background_image: "/assets/images/the_wolverine.png"
-show_in_list: false
+background_image: "/assets/images/the_wolverine.jpg"
+show_in_list: true
 show_in_menu: false
 title: The Wolverine
 goals:
