@@ -26,14 +26,14 @@ goals:
 
 ## Overview
 
-- As Wolverine, destroy the Golden Order and all who associate with it. Equip only claws and use your healing factor to slash through all those that would control others. No gods and no masters...
+- As Wolverine, destroy the Golden Order and all who associate with it. Equip only {% include fextra.html name='Claws' %} and use your healing factor to slash through all those that would control others. No gods and no masters...
 
 ## Rules
 
 - New Game only with setup from a previous game (see Setup)
 -  {% include fextra.html text='Age of the Stars' name='Endings#ageofthestars' %} ending
 - May only use the following weapons after Chapel of Anticipation
-    - {% include fextra.html name='Beast Claw (Weapon)' %}
+    - {% include fextra.html name='Claws' %}
     - {% include fextra.html name='Clawmark Seal' %}
 - May only use incantations in {% include fextra.html name='Bestial Incantations' %}
 - May not wear a shirt or headgear
@@ -41,7 +41,6 @@ goals:
 
 ## Setup
 
-- The {% include fextra.html name='Vagabond' %} class is recommended
 - Skip the Grafted Scion fight by jumping off an edge after he loads in
 - Summon in a friend to drop the equipment. Be cautious of invaders!
 
@@ -50,3 +49,6 @@ goals:
 - {% include fextra.html name='Beast Claw (Weapon)' %} can be infused with Ashes of War
 - {% include fextra.html name='Blessed Dew Talisman' %} is recommended
 
+## Related
+
+- [How to Make Wolverine](https://www.youtube.com/watch?v=WCFvKba4qWs)
