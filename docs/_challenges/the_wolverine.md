@@ -1,6 +1,6 @@
 ---
 layout: challenge
-background_image: 
+background_image: "/assets/images/the_wolverine.png"
 show_in_list: false
 show_in_menu: false
 title: The Wolverine
