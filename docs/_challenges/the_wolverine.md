@@ -46,8 +46,7 @@ goals:
 
 ## Notes
 
-- {% include fextra.html name='Beast Claw (Weapon)' %} can be infused with Ashes of War
-- {% include fextra.html name='Blessed Dew Talisman' %} is recommended
+- {% include fextra.html name='Blessed Dew Talisman' %} is recommended for passive healing
 
 ## Related
 
