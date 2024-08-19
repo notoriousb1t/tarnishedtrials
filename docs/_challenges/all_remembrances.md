@@ -3,33 +3,37 @@ layout: challenge
 show_in_list: true
 show_in_menu: true
 title: All Remembrances
-goals:
- - Elden Remembrance
- - Remembrance of Hoarah Loux
- - Remembrance of the Black Blade
- - Remembrance of the Blasphemous
- - Remembrance of the Blood Lord
- - Remembrance of the Dragonlord
- - Remembrance of the Fire Giant
- - Remembrance of the Full Moon Queen
- - Remembrance of the Grafted
- - Remembrance of the Lichdragon
- - Remembrance of the Naturalborn
- - Remembrance of the Omen King
- - Remembrance of the Regal Ancestor
- - Remembrance of the Rot Goddess
- - Remembrance of the Starscourge
 ---
 
 
-## Overview
+## Objective
 
-The game is won once all remembrances in the base game are collected and the Elden Ring is repaired. This challenge predates the Shadow of the Erdtree DLC and requires most significant bosses (but not all) to be defeated. This challenge can be played on any journey with any level character
+The game is won once all remembrances in the game are collected and the Elden Ring is repaired. This challenge predates the Shadow of the Erdtree DLC and requires most significant bosses (but not all) to be defeated. This challenge can be played on any journey with any level character
 
 ## Rules
 
 - New Game or New Game+
 - Any ending
+
+## Checklist
+
+### Lands Between
+
+{% include goal.html name="Elden Remembrance" %}
+{% include goal.html name="Remembrance of Hoarah Loux" %}
+{% include goal.html name="Remembrance of the Black Blade" %}
+{% include goal.html name="Remembrance of the Blasphemous" %}
+{% include goal.html name="Remembrance of the Blood Lord" %}
+{% include goal.html name="Remembrance of the Dragonlord" %}
+{% include goal.html name="Remembrance of the Fire Giant" %}
+{% include goal.html name="Remembrance of the Full Moon Queen" %}
+{% include goal.html name="Remembrance of the Grafted" %}
+{% include goal.html name="Remembrance of the Lichdragon" %}
+{% include goal.html name="Remembrance of the Naturalborn" %}
+{% include goal.html name="Remembrance of the Omen King" %}
+{% include goal.html name="Remembrance of the Regal Ancestor" %}
+{% include goal.html name="Remembrance of the Rot Goddess" %}
+{% include goal.html name="Remembrance of the Starscourge" %}
 
 ## Notes
 

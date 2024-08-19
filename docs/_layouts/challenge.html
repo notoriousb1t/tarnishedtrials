@@ -7,34 +7,3 @@ layout: base
 </h1>
 
 {{ content }}
-
-<h2>Goals</h2>
-<h3>Base Game</h3>
-<ul class="challenge-goal-list">
-    {% for item in page.goals %}
-    <li class="challenge-goal">
-        <label class="challenge-goal-checkbox">
-            <input type="checkbox" name="{{ page.title }} | {{ item }}" />
-        </label>
-        {% include fextra.html name=item %}
-    </li>
-    {% endfor %}
-    {%if page.goals == null %}
-        <p>Not applicable</p>
-    {% endif %}
-</ul>
-
-<h3>Shadow of the Erdtree</h3>
-<ul class="challenge-goal-list">
-    {% for item in page.goals_sote %}
-        <li class="challenge-goal">
-            <label class="challenge-goal-checkbox">
-                <input type="checkbox" name="{{ page.title }} | {{ item }}" />
-            </label>
-            {% include fextra.html name=item %}
-        </li>
-    {% endfor %}
-    {%if page.goals_sote == null %}
-        <p>Not applicable</p>
-    {% endif %}
-</ul>

@@ -4,72 +4,74 @@ background_image: ""
 show_in_list: true
 show_in_menu: false
 title: Shadow of the Black Knives
-goals:
- - Anastasia, Tarnished-Eater
- - Bell Bearing Hunter
- - Bloody Finger Nerijus
- - Bloody Finger Okina
- - Bloody Finger Ravenmount Assassin
- - Dung Eater
- - Edgar the Revenger
- - Elden Beast
- - Eleonora, Violet Bloody Finger
- - Ensha
- - Errant Sorcerer Wilhelm
- - Festering Fingerprint Vyke
- - Fia's Champions
- - Great Horned Tragoth
- - Great-Jar Warrior
- - Inquisitor Ghiza
- - Juno Hoslow, Knight of Blood
- - Mad Tongue Alberich
- - Magnus the Beast Claw
- - Maleigh Marais, Shaded Castle Castellan
- - Millicent's Sisters
- - Nameless White Mask
- - Old Knight Istvan
- - Preceptor Miriam
- - Recusant Bernahl
- - Recusant Henricus
- - Rileigh the Idle
- - Sanguine Noble
- - Vargram the Raging Wolf
- - White Mask Varré
- - Witch-Hunter Jerren
 ---
 
-## Overview
+## Objective
 
-As a Black Knife Assassin, finish what was started on The Night of the Black Knives. Complete all invasions in the base game and all Volcano Manor contracts while ending with the [Age of the Stars](https://eldenring.wiki.fextralife.com/Endings#ageofthestars){:target="_blank"}.
+As a Black Knife Assassin, finish what was started on The Night of the Black Knives. Complete all invasions in the base game and all Volcano Manor contracts while ending with the {% include fextra.html name="Endings#ageofthestars" text="Age of the Stars" %}.
 
 ## Rules
 
-- New Game only with setup from a previous game (see Setup)
-- [Age of the Stars](https://eldenring.wiki.fextralife.com/Endings#ageofthestars){:target="_blank"} ending
-- May only equip [Daggers](https://eldenring.wiki.fextralife.com/Daggers){:target="_blank"} after the Chapel of Anticipation
-- May only wear the [Black Knife Set](https://eldenring.wiki.fextralife.com/Black+Knife+Set){:target="_blank"} after the Chapel of Anticipation
+- New Game or New Game with Setup (see below)
+- {% include fextra.html name="Endings#ageofthestars" text="Age of the Stars" %} ending
+- May only equip {% include fextra.html name="Daggers" %} after the Chapel of Anticipation
+- May only wear the {% include fextra.html name="Black Knife Set" %} or {% include fextra.html name="Bandit Set" %} after the Chapel of Anticipation
 - No incantations or sorceries
-- Only Standard Spirit Ashes and [Black Knife Tiche](https://eldenring.wiki.fextralife.com/Black+Knife+Tiche+Ashes){:target="_blank"} may be summoned
+- Only Standard Spirit Ashes and {% include fextra.html name="Black Knife Tiche Ashes" %} may be summoned
 - No NPC Summons except for Radahn Festival
 
-## Setup
+## New Game with Setup
 
 - Any class may be used
 - Discard all unusable weapons and armor in the Chapel of Anticipation
-- Skip the Grafted Scion fight by jumping off an edge
+- Skip the Grafted Scion fight by jumping off an edge after the fight starts
 - Summon in a friend to drop the following items for you. Be cautious of invaders!
-  - [Black Knife Set](https://eldenring.wiki.fextralife.com/Black+Knife+Set){:target="_blank"}
-  - [Blade of Death](https://eldenring.wiki.fextralife.com/Blade+of+Death){:target="_blank"}
-  - [Misericorde](https://eldenring.wiki.fextralife.com/Misericorde){:target="_blank"} with [Bloodhound's Step](https://eldenring.wiki.fextralife.com/Bloodhound's+Step){:target="_blank"}
+  - {% include fextra.html name="Black Knife Set" %}
+  - {% include fextra.html name="Blade of Death" %}
+  - {% include fextra.html name="Misericorde" %}
+
+## Checklist
+
+{% include goal.html name="Anastasia, Tarnished-Eater" %}
+{% include goal.html name="Bell Bearing Hunter" %}
+{% include goal.html name="Bloody Finger Nerijus" %}
+{% include goal.html name="Bloody Finger Okina" %}
+{% include goal.html name="Bloody Finger Ravenmount Assassin" %}
+{% include goal.html name="Dung Eater" %}
+{% include goal.html name="Edgar the Revenger" %}
+{% include goal.html name="Elden Beast" %}
+{% include goal.html name="Eleonora, Violet Bloody Finger" %}
+{% include goal.html name="Ensha" %}
+{% include goal.html name="Errant Sorcerer Wilhelm" %}
+{% include goal.html name="Festering Fingerprint Vyke" %}
+{% include goal.html name="Fia's Champions" %}
+{% include goal.html name="Great Horned Tragoth" %}
+{% include goal.html name="Great-Jar Warrior" %}
+{% include goal.html name="Inquisitor Ghiza" %}
+{% include goal.html name="Juno Hoslow, Knight of Blood" %}
+{% include goal.html name="Mad Tongue Alberich" %}
+{% include goal.html name="Magnus the Beast Claw" %}
+{% include goal.html name="Maleigh Marais, Shaded Castle Castellan" %}
+{% include goal.html name="Millicent's Sisters" %}
+{% include goal.html name="Nameless White Mask" %}
+{% include goal.html name="Old Knight Istvan" %}
+{% include goal.html name="Preceptor Miriam" %}
+{% include goal.html name="Recusant Bernahl" %}
+{% include goal.html name="Recusant Henricus" %}
+{% include goal.html name="Rileigh the Idle" %}
+{% include goal.html name="Sanguine Noble" %}
+{% include goal.html name="Vargram the Raging Wolf" %}
+{% include goal.html name="White Mask Varré" %}
+{% include goal.html name="Witch-Hunter Jerren" %}
 
 ## Notes
 
  - It is recommended to clear invaders by region to avoid missing an invasion
  - Some invaders are unlocked only by progressing quests
+ - Avoid killing NPCs, some NPCs are required to unlock invasions
  - Recusant Henricus will evade assassination if he isn't killed early enough
  - Magnus the Beast Claw can be invaded to satisfy Varre's quest
  - The player should side with Sorceress Sellen
  - The player should side with Millicent
  - Anastasia, Tarnished-Eater invades 3 times
  - There are 4 Bell Bearing Hunters
-

@@ -306,14 +306,6 @@ body {
   filter: none;
 }
 
-.challenge-goal-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  list-style: none;
-  padding: 0;
-}
-
 .challenge-title {
   display: grid;
   font-family: Mantinia;
@@ -331,9 +323,17 @@ body {
   display: flex;
   margin: 0;
   flex-basis: 480px;
+  margin: 8px 0px;
   max-width: 480px;
   padding: 0 16px;
   width: 100%;
+  display: flex;
+  place-content: center start;
+}
+
+.goal-checkbox {
+  height: 14px;
+  width: 14px;
 }
 
 .challenge-goal-heading {

@@ -1,0 +1,6 @@
+<div class="challenge-goal" role="presentation">
+    <label class="challenge-goal-checkbox">
+        <input class="goal-checkbox" type="checkbox" name="{{ page.title }} | {{ include.text | default: include.name }}" />
+    </label>
+    {% include fextra.html name=include.name text=include.text %}
+</div>
