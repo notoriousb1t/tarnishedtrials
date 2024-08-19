@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet" />
 </head>
-<body style="background-image: url({{ page.background_image | relative_url }})">
+<body style="background-image: url({{ page.background_image | default: "/assets/images/young-lion-hero.png" | relative_url }})">
     <div class="base-nav-container">
         <div class="base-nav-content" role="presentation">
             <div role="heading" aria-level="1" class="base-logo">

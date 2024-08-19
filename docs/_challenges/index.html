@@ -8,7 +8,7 @@ title: All Challenges
 <ul class="challenges-grid" aria-label="Challenges">
     {% for item in site.challenges %}
         {% if item.show_in_list %}
-            <li class="challenges-griditem" style="background-image: url({{item.background_image | relative_url}});">
+            <li class="challenges-griditem" style="background-image: url({{item.background_image | default: "/assets/images/young-lion-hero.png" | relative_url}});">
                 <a href="{{ item.url }}">
                     {{ item.title }}
                 </a>
