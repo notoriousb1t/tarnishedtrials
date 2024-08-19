@@ -197,6 +197,7 @@ body {
   max-height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
+  padding-bottom: 64px;
   width: 100%;
 }
 
@@ -317,6 +318,7 @@ body {
   text-align: center;
   text-shadow: hsl(30 61% 69%) 1px 0 10px;
   width: 100%;
+  word-break: break-word;
 }
 
 .challenge-goal {
