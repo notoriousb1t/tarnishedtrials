@@ -12,7 +12,7 @@ As a Black Knife Assassin, finish what was started on The Night of the Black Kni
 
 ## Rules
 
-- New Game or New Game with Setup (see below)
+- New Game or New Game with Setup
 - {% include fextra.html name="Endings#ageofthestars" text="Age of the Stars" %} ending
 - May only equip {% include fextra.html name="Daggers" %} after the Chapel of Anticipation
 - May only wear the {% include fextra.html name="Black Knife Set" %} or {% include fextra.html name="Bandit Set" %} after the Chapel of Anticipation
@@ -32,8 +32,13 @@ As a Black Knife Assassin, finish what was started on The Night of the Black Kni
 
 ## Checklist
 
-{% include goal.html name="Anastasia, Tarnished-Eater" %}
-{% include goal.html name="Bell Bearing Hunter" %}
+{% include goal.html name="Anastasia, Tarnished-Eater" text="Anastasia - Consecrated Snowfield"  %}
+{% include goal.html name="Anastasia, Tarnished-Eater" text="Anastasia - Corpse-Stench Shack"  %}
+{% include goal.html name="Anastasia, Tarnished-Eater" text="Anastasia - Smoldering Church" %}
+{% include goal.html name="Bell Bearing Hunter" text="Bell Bearing Hunter - Church of Vows" %}
+{% include goal.html name="Bell Bearing Hunter" text="Bell Bearing Hunter - Hermit Merchant's Shack" %}
+{% include goal.html name="Bell Bearing Hunter" text="Bell Bearing Hunter - Isolated Merchant's Shack" %}
+{% include goal.html name="Bell Bearing Hunter" text="Bell Bearing Hunter - Warmaster's Shack" %}
 {% include goal.html name="Bloody Finger Nerijus" %}
 {% include goal.html name="Bloody Finger Okina" %}
 {% include goal.html name="Bloody Finger Ravenmount Assassin" %}
@@ -68,10 +73,8 @@ As a Black Knife Assassin, finish what was started on The Night of the Black Kni
 
  - It is recommended to clear invaders by region to avoid missing an invasion
  - Some invaders are unlocked only by progressing quests
- - Avoid killing NPCs, some NPCs are required to unlock invasions
+ - Avoid killing NPCs, some NPCs are required to unlock invasions (Bloody Finger Hunter Yura)
  - Recusant Henricus will evade assassination if he isn't killed early enough
  - Magnus the Beast Claw can be invaded to satisfy Varre's quest
  - The player should side with Sorceress Sellen
  - The player should side with Millicent
- - Anastasia, Tarnished-Eater invades 3 times
- - There are 4 Bell Bearing Hunters

@@ -9,7 +9,7 @@ goals:
 
 ## Objective
 
-As Wolverine, destroy the Golden Order and all who associate with it. Equip only {% include fextra.html name='Claws' %} and use your healing factor to slash through all those that would control others. No gods and no masters...
+As Wolverine, destroy the Golden Order in the Lands Between and all who associate with it. Equip only {% include fextra.html name='Claws' %} and use your healing factor to slash through all those that would control others. No gods and no masters...
 
 ## Rules
 
@@ -34,7 +34,12 @@ As Wolverine, destroy the Golden Order and all who associate with it. Equip only
 {% include goal.html name="D, Beholder Of Death" %}
 {% include goal.html name="D, Hunter of the Dead" %}
 {% include goal.html name="Elden Beast" %}
-{% include goal.html name="Erdtree Avatar" %}
+{% include goal.html name="Erdtree Avatar" text="Erdtree Avatar - Deeproot Depths" %}
+{% include goal.html name="Erdtree Avatar" text="Erdtree Avatar - Leyndell, Royal Capital" %}
+{% include goal.html name="Erdtree Avatar" text="Erdtree Avatar - Liurnia Northeast" %}
+{% include goal.html name="Erdtree Avatar" text="Erdtree Avatar - Liurnia Southwest" %}
+{% include goal.html name="Erdtree Avatar" text="Erdtree Avatar - Mountaintop East" %}
+{% include goal.html name="Erdtree Avatar" text="Erdtree Avatar - Weeping Peninsula" %}
 {% include goal.html name="Gatekeeper Gostoc" %}
 {% include goal.html name="Gideon Ofnir" %}
 {% include goal.html name="Godrick the Grafted" %}
@@ -42,10 +47,15 @@ As Wolverine, destroy the Golden Order and all who associate with it. Equip only
 {% include goal.html name="Kenneth Haight" %}
 {% include goal.html name="Lichdragon Fortissax" %}
 {% include goal.html name="Morgott, the Omen King" %}
+{% include goal.html name="Putrid Avatar" text="Putrid Avatar - Caelid" %}
+{% include goal.html name="Putrid Avatar" text="Putrid Avatar - Consecrated Snowfield" %}
+{% include goal.html name="Putrid Avatar" text="Putrid Avatar - Dragonbarrow" %}
 {% include goal.html name="Radagon of the Golden Order" %}
 {% include goal.html name="Rennala, Queen of the Full Moon" %}
 {% include goal.html name="Soldier of Godrick" %}
-{% include goal.html name="Tree Sentinel" %}
+{% include goal.html name="Tree Sentinel" text="Tree Sentinel - Limgrave" %}
+{% include goal.html name="Tree Sentinel" text="Tree Sentinel - Altus #1" %}
+{% include goal.html name="Tree Sentinel" text="Tree Sentinel - Altus #2" %}
 
 ## Notes
 
@@ -53,4 +63,5 @@ As Wolverine, destroy the Golden Order and all who associate with it. Equip only
 - {% include fextra.html name='Blessed Dew Talisman' %} provides some passive healing
 - {% include fextra.html name='Bestial Vitality' %} provides some passive healing
 - It is possible (but difficult) to start this challenge on New Game by running to {% include fextra.html name='Abandoned Cave' %} and running for {% include fextra.html name="Venomous Fang" %} which does not require killing any enemies
+- Attacking D in Limgrave may break the run
 - Video: [How to Make Wolverine](https://www.youtube.com/watch?v=WCFvKba4qWs)
