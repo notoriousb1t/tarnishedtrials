@@ -30,7 +30,15 @@ As Wolverine, destroy the Golden Order in the Lands Between and all who associat
 ## Checklist
 
 {% include goal.html name="Brother Corhyn" %}
-{% include goal.html name="Crucible Knight" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Crumbling Farum Azula #1" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Crumbling Farum Azula #2" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Leyndell, Royal Capital #1" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Leyndell, Royal Capital #2" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Siofra Aqueduct #1" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Siofra Aqueduct #2" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Siofra River" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Stormhill Evergaol" %}
+{% include goal.html name="Crucible Knight" text="Crucible Knight - Stormveil Castle" %}
 {% include goal.html name="D, Beholder Of Death" %}
 {% include goal.html name="D, Hunter of the Dead" %}
 {% include goal.html name="Elden Beast" %}
@@ -47,15 +55,25 @@ As Wolverine, destroy the Golden Order in the Lands Between and all who associat
 {% include goal.html name="Kenneth Haight" %}
 {% include goal.html name="Lichdragon Fortissax" %}
 {% include goal.html name="Morgott, the Omen King" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Altus Plateau" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Caelid" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Consecrated Snowfield #1" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Consecrated Snowfield #2" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Dragonbarrow" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Forbidden Lands" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Limgrave" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Liurnia North" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Liurnia South" %}
+{% include goal.html name="Night's Cavalry" text="Night's Calvary - Weeping Peninsula" %}
 {% include goal.html name="Putrid Avatar" text="Putrid Avatar - Caelid" %}
 {% include goal.html name="Putrid Avatar" text="Putrid Avatar - Consecrated Snowfield" %}
 {% include goal.html name="Putrid Avatar" text="Putrid Avatar - Dragonbarrow" %}
 {% include goal.html name="Radagon of the Golden Order" %}
 {% include goal.html name="Rennala, Queen of the Full Moon" %}
 {% include goal.html name="Soldier of Godrick" %}
-{% include goal.html name="Tree Sentinel" text="Tree Sentinel - Limgrave" %}
 {% include goal.html name="Tree Sentinel" text="Tree Sentinel - Altus #1" %}
 {% include goal.html name="Tree Sentinel" text="Tree Sentinel - Altus #2" %}
+{% include goal.html name="Tree Sentinel" text="Tree Sentinel - Limgrave" %}
 
 ## Notes
 
